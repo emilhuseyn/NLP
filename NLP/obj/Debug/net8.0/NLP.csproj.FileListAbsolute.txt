@@ -35,3 +35,4 @@ C:\Users\Emil\source\repos\NLP\NLP\bin\Debug\net8.0\runtimes\win-x64\native\LdaN
 C:\Users\Emil\source\repos\NLP\NLP\bin\Debug\net8.0\runtimes\win-x86\native\LdaNative.dll
 C:\Users\Emil\source\repos\NLP\NLP\obj\Debug\net8.0\NLP.csproj.AssemblyReference.cache
 C:\Users\Emil\source\repos\NLP\NLP\obj\Debug\net8.0\NLP.csproj.Up2Date
+C:\Users\Emil\source\repos\NLP\NLP\obj\Debug\net8.0\NLP.sourcelink.json

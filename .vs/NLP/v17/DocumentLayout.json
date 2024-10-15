@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Emil\\source\\repos\\NLP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41FF81AE-0067-4232-A2F7-92DC9D66DCF3}|NLP\\NLP.csproj|c:\\users\\emil\\source\\repos\\nlp\\nlp\\nlp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{41FF81AE-0067-4232-A2F7-92DC9D66DCF3}|NLP\\NLP.csproj|solutionrelative:nlp\\nlp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41FF81AE-0067-4232-A2F7-92DC9D66DCF3}|NLP\\NLP.csproj|c:\\users\\emil\\source\\repos\\nlp\\nlp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41FF81AE-0067-4232-A2F7-92DC9D66DCF3}|NLP\\NLP.csproj|solutionrelative:nlp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +31,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NLP",
+              "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\NLP\\NLP\\NLP.csproj",
+              "RelativeDocumentMoniker": "NLP\\NLP.csproj",
+              "ToolTip": "C:\\Users\\Emil\\source\\repos\\NLP\\NLP\\NLP.csproj",
+              "RelativeToolTip": "NLP\\NLP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T14:31:13.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Emil\\source\\repos\\NLP\\NLP\\Program.cs",
               "RelativeDocumentMoniker": "NLP\\Program.cs",
               "ToolTip": "C:\\Users\\Emil\\source\\repos\\NLP\\NLP\\Program.cs",
               "RelativeToolTip": "NLP\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA8wCAAAAAkAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T09:06:35.014Z",
               "EditorCaption": ""
